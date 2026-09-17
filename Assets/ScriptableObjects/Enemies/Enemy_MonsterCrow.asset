@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8261d232b955f6e439b7141979cc7082, type: 3}
+  m_Name: Enemy_MonsterCrow
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: MonsterCrow
+  battleSprite: {fileID: -692381193, guid: 3a853c0c034e30a49ad9b3950075d0ec, type: 3}
+  displayScale: 1
+  baseStats:
+    maxHP: 40
+    maxMP: 10
+    attack: 8
+    defense: 4
+    magic: 5
+    resistance: 3
+    speed: 6
+  basicAttackPower: 80
+  basicAttackType: 5
+  basicAttackIsPhysical: 1
+  weaknesses: 01000000
+  resistances: 05000000
+  aiDifficulty: 1
+  skills:
+  - skill: {fileID: 11400000, guid: d20339f8ba6690e4f8f86b32a6d8095a, type: 2}
+    weight: 0
+  - skill: {fileID: 11400000, guid: 759e544a76c3cbe4eaf93f1399d4417b, type: 2}
+    weight: 0
+  battleAnimatorController: {fileID: 9100000, guid: b5546b8d205ccd142a47d2431e89893b, type: 2}
+  attackSprites: []
+  attackFrameRate: 10
+  slideForwardSprites: []
+  slideBackSprites: []
+  slideFrameRate: 12
+  flipBattleSprite: 1
+  expReward: 10
+  goldReward: 5

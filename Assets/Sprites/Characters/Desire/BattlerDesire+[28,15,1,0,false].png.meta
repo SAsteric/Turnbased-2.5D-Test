@@ -1,0 +1,2531 @@
+fileFormatVersion: 2
+guid: 412bbc1831987734a92cb8d8aeabe684
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 288
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e39e26edb812a4e82e5c12646783dc
+      internalID: 8773833414986831325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_0_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4032
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413dd36f35fc424c91876a8c2b6f4c8
+      internalID: 2791851559994775350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_0_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4032
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cdb2d49a312b94aa0ae0d3d78b9501
+      internalID: -7306329801292824081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_0_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4032
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f418bdfa9e5c914d8b9970538afe16e
+      internalID: -7006247179432093659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480439a150822094ebd570d19f4d24d7
+      internalID: -2463142591743572376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_1_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3744
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a156db624d154d4eac01f05cb12013c
+      internalID: -2031062642524883322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_1_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3744
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d407f2d18a1a734bbf7561f5cc4a2fd
+      internalID: -1004357184712027201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_1_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3744
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8dc10bb8844741a468d2820d61dd0
+      internalID: -1596427154793381084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c9b6dd3ff24649b228c99db88d510
+      internalID: -1719970748093500922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_2_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3456
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61219c31911304ea663bcf5a954f64
+      internalID: -5452229761903285392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_2_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3456
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5cd9bf0dd9f6d4aa9bd907e54b10da
+      internalID: -974485562499315958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_2_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3456
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49996a2b6c966064495890eafb234315
+      internalID: -5885185304193321253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa23a929e936ce46985365f88464db3
+      internalID: -3977554233027613923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_3_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3168
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a148b5ebd600419d0c622dbc47898
+      internalID: 2929973460144703942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_3_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3168
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356c5cbf867f164dbd14d1a18e1c472
+      internalID: -645681405109161864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_3_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3168
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a021906fbdf51b42bd7b88b39040337
+      internalID: -1530546720523531675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90bb053ee17cb4683ed86b6664d2a1
+      internalID: -4559527773311457112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_4_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2880
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f4d697bd9d1442b65e27e4e77edf5
+      internalID: -6871902699946419740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_4_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2880
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58786cf1461961444bcc2b4dd4609882
+      internalID: -3368977526450336788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_4_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2880
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2b895acaf01e740a86eb063452b830
+      internalID: -3823214341205070950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4030e24fafe3e4db97e7789331c527
+      internalID: 4834556676003033107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_5_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2592
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a84f0e97fb1d847a39512ee00dc08a
+      internalID: -2351372903847964103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_5_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2592
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bebb247037485458a659045185f8c6
+      internalID: -6771454454678152181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_5_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2592
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422759d93680e74198796020c91aa5a
+      internalID: -4802060603554173894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_5_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2592
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0513bdc4a438374f9d847074749d459
+      internalID: 7695165420356918295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82cdf6a049ad54ba4ece3c25b26b4e
+      internalID: -1981729881738014079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_6_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2304
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc74e4a027fd114e8c92a7a8dbd9bfe
+      internalID: -5081284259605170491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124fe0fc7a29fb4385cb333d2a48cf2
+      internalID: -986842122624981002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_7_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2016
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54986688b2ba7b04e943cb28bb578139
+      internalID: 64430923497464609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_7_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2016
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dede41bf34f9aa46a9487bc560ef070
+      internalID: -4438515589631016124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_7_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2016
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4594e61a9587146bd746d05c43e599
+      internalID: -4386260196301754904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_7_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2016
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deb24130d60aee4ea05f86863d7b060
+      internalID: 2399719346468419906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08791d0743f2c34fab784ff1144975a
+      internalID: 342800605195398391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbda45904ad364d960e1ddcad433df
+      internalID: 8383754807067094346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40781c516dd42234b97eb6a820dbaa7b
+      internalID: 8038509632822325680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc2d571da50cad43b82b9bc9eae3ab4
+      internalID: -3414608990332297120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d4069345561746872dd8e04d6d7eb
+      internalID: 6530866898724663491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf4dd61782cfb3468460a0f26b5e5ab
+      internalID: 9111778804154514883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf892dfb4cd5145810322c2f57a985
+      internalID: -6736211354100851582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3836ba09fddc8ef4aa330089adabd39d
+      internalID: 5969746796539990354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_8_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1728
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612ca995c0c4f4439e46c238e5b0838
+      internalID: 8498287419301846189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49857d4db91fdc24d8c541c6e0c8311a
+      internalID: 2033262626349339558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f7ce5f74a2a442b8b0d1d6ea78ee2
+      internalID: -7285924915639362289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f7e9d5b6a9c0b40aedb3f2531fb963
+      internalID: 3287413875595751653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6ec798cfc09348934f87efba1e9f0
+      internalID: 2074254687799820474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6ab814b5710347b486e1b551c5eb6
+      internalID: -6037450987115275073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c100134f042f49bb69fdec83d8fb3
+      internalID: 8264833420030684741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca29fbc47c48a46ace4a8759351d6f
+      internalID: 5625533387090595781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_9_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1440
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea1b3f9f96aa84d9b1044e068469e3
+      internalID: -8281103823302081615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0fcacb4c32304bb8ea6abdeec971d
+      internalID: -5333885327653308854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db654771ceec1f14a8ff605644a2ab79
+      internalID: -7456702955031697500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eeb43df1fd9e74eb03faa68ba08f60
+      internalID: -7316903681550915411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2e9231d189b14f9ff15aed55a7db5
+      internalID: 1819678942532650925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8069d43961a74d9340364d2031dd5
+      internalID: 7887792629095777107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10532d8c7c96a44b866a7061cb8af3
+      internalID: 6768275283431066779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_10_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef62fe04a6da1489ad83947b346022
+      internalID: 543058274920837913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb527487673146a4097b854f05c30996
+      internalID: 2144011423487940979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc966d650e3e95b46bafe7a18428061e
+      internalID: 7588046236194551602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2663abf4d7816b45b03bc3ccbf45f96
+      internalID: -1874279999798911752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2384cb12ad0284ca48e83bf0bac961
+      internalID: -6254758753222499727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1437e06008e3548a340569d0141507
+      internalID: 5105411377783552220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a3ea48c1300a42a5bf666267a584d
+      internalID: 9066833443639237443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_6_hit
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ecf0b5b1a601d4bbc81d3cdcc8603a
+      internalID: -6238357275370738079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e5f08d33db9d418f239656852034d
+      internalID: -8680306560663040629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7ea27f3635d344a07022353c148c5
+      internalID: 172389846402811619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_9
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd447c90a5e2148ad89eaf3be5614b
+      internalID: -6183977611679149077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_10
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ceaa0d3d250a4c92475c1e59c9b74
+      internalID: -8320844467812010732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_11_11
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 864
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc57348beb55b499a5370dc682e0e1
+      internalID: -621821188892253714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c73b68c67e00b41bdf79b5fd531d8f
+      internalID: 7933773421803933552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda64356f74e490488e87aac1dd08125
+      internalID: -8301011910853019512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2550e30ef09a4a80605c10c2c25d5
+      internalID: -8769696978275055839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc1dd8756922b4583e9532d14c97ef
+      internalID: 1063078518117840294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d0fdf9b580b434c9a10424639409dc
+      internalID: -3903287235220873441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_12_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9994f95a64a4a0843927908abce169a9
+      internalID: 6212247972347243889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cad9e78b2772f4b84c9ec451a8d6c6
+      internalID: -616977680691152355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_13_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca06787bda4775439326dda6e8f9fbe
+      internalID: -2156552505564591412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_13_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cc7a23eac07ca479af2980ab0e299e
+      internalID: -1150936293905775922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_13_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 288
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00272ce641f06cd44b29bd2a8a1e827d
+      internalID: 246745667627562683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd064d5396b25db4491d51c2e9d586c5
+      internalID: -7201309987812111123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7eeb895a39934591677a8a3814959
+      internalID: 20891370077563697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91606d11c7630d342a3baff254693632
+      internalID: -1126908236511956846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15245f7b866886747b5acefec5546d74
+      internalID: -603803901466560880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ffb74e01f7fd149a419d9d0dd5e4ab
+      internalID: 7618425593215902926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338dd56b7f5aeee4fab25991f7af0478
+      internalID: 3703382181088448541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5158eea551c62840b5544115f533ded
+      internalID: -7966745588313982042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bcfff6b5b0be446b9599cd70b4e53a
+      internalID: -750912143566922280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e70e7e9ecb4446bcc8e17972749a8
+      internalID: -292293577039594689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_9
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2713df8d9474541ada0915f2809b4c
+      internalID: 7335735433132078595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_10
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd5cec270458947a89006426af02fe
+      internalID: -8645391508960040063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattlerDesire+[28,15,1,0,false]_14_11
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 0
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd70f9a7240f14f8b3925da9eade31
+      internalID: -6117773387987323788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d764d8c6455447f4b8b554f2c6aff432
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BattlerDesire+[28,15,1,0,false]_0: 924915331
+      BattlerDesire+[28,15,1,0,false]_0_0: 8773833414986831325
+      BattlerDesire+[28,15,1,0,false]_0_1: 2791851559994775350
+      BattlerDesire+[28,15,1,0,false]_0_10: -8697061796951119701
+      BattlerDesire+[28,15,1,0,false]_0_11: -7709883388020585610
+      BattlerDesire+[28,15,1,0,false]_0_12: 5584395383328734276
+      BattlerDesire+[28,15,1,0,false]_0_13: -7827383045402561399
+      BattlerDesire+[28,15,1,0,false]_0_14: 1262781921926420040
+      BattlerDesire+[28,15,1,0,false]_0_15: -6061425556284849046
+      BattlerDesire+[28,15,1,0,false]_0_16: 5137002618931864379
+      BattlerDesire+[28,15,1,0,false]_0_17: 6991084841297931854
+      BattlerDesire+[28,15,1,0,false]_0_18: -2828524482686448464
+      BattlerDesire+[28,15,1,0,false]_0_19: 3938252325923244655
+      BattlerDesire+[28,15,1,0,false]_0_2: -7306329801292824081
+      BattlerDesire+[28,15,1,0,false]_0_20: 6796045435450303515
+      BattlerDesire+[28,15,1,0,false]_0_21: -3949010132206351310
+      BattlerDesire+[28,15,1,0,false]_0_22: 5007425510633305882
+      BattlerDesire+[28,15,1,0,false]_0_23: -1014265852736617761
+      BattlerDesire+[28,15,1,0,false]_0_24: -3071949522086132928
+      BattlerDesire+[28,15,1,0,false]_0_25: -4115011743985328121
+      BattlerDesire+[28,15,1,0,false]_0_26: -9160925229233485381
+      BattlerDesire+[28,15,1,0,false]_0_27: -2530038561860395965
+      BattlerDesire+[28,15,1,0,false]_0_3: -7006247179432093659
+      BattlerDesire+[28,15,1,0,false]_0_4: -8337152743440314977
+      BattlerDesire+[28,15,1,0,false]_0_5: -2630309744063378729
+      BattlerDesire+[28,15,1,0,false]_0_6: -6034994641511672118
+      BattlerDesire+[28,15,1,0,false]_0_7: 6996389311606301546
+      BattlerDesire+[28,15,1,0,false]_0_8: -3251681788756717662
+      BattlerDesire+[28,15,1,0,false]_0_9: 7569174258423362465
+      BattlerDesire+[28,15,1,0,false]_10_0: -5333885327653308854
+      BattlerDesire+[28,15,1,0,false]_10_1: -7456702955031697500
+      BattlerDesire+[28,15,1,0,false]_10_10: -859375987439806164
+      BattlerDesire+[28,15,1,0,false]_10_11: -6397519956074327337
+      BattlerDesire+[28,15,1,0,false]_10_12: -789029328720695633
+      BattlerDesire+[28,15,1,0,false]_10_13: -3453128907786593182
+      BattlerDesire+[28,15,1,0,false]_10_14: -1905234585918769830
+      BattlerDesire+[28,15,1,0,false]_10_15: 5864125116126020017
+      BattlerDesire+[28,15,1,0,false]_10_16: 83936776950241161
+      BattlerDesire+[28,15,1,0,false]_10_17: 6053840587359734036
+      BattlerDesire+[28,15,1,0,false]_10_18: 2219515274363921920
+      BattlerDesire+[28,15,1,0,false]_10_19: 5970932469841483842
+      BattlerDesire+[28,15,1,0,false]_10_2: -7316903681550915411
+      BattlerDesire+[28,15,1,0,false]_10_20: -8489440654229376811
+      BattlerDesire+[28,15,1,0,false]_10_21: 590696387208064521
+      BattlerDesire+[28,15,1,0,false]_10_22: 790145761068306881
+      BattlerDesire+[28,15,1,0,false]_10_23: 1546493056693013661
+      BattlerDesire+[28,15,1,0,false]_10_24: -2669876467035628606
+      BattlerDesire+[28,15,1,0,false]_10_25: 1537427506547782384
+      BattlerDesire+[28,15,1,0,false]_10_26: 4670593844388979854
+      BattlerDesire+[28,15,1,0,false]_10_27: 1127176493143534689
+      BattlerDesire+[28,15,1,0,false]_10_3: 1819678942532650925
+      BattlerDesire+[28,15,1,0,false]_10_4: 7887792629095777107
+      BattlerDesire+[28,15,1,0,false]_10_5: 6768275283431066779
+      BattlerDesire+[28,15,1,0,false]_10_6: 543058274920837913
+      BattlerDesire+[28,15,1,0,false]_10_7: -2895175004207941402
+      BattlerDesire+[28,15,1,0,false]_10_8: 6153293974748775091
+      BattlerDesire+[28,15,1,0,false]_10_9: 6193555878820402201
+      BattlerDesire+[28,15,1,0,false]_11_0: 2144011423487940979
+      BattlerDesire+[28,15,1,0,false]_11_1: 7588046236194551602
+      BattlerDesire+[28,15,1,0,false]_11_10: -8320844467812010732
+      BattlerDesire+[28,15,1,0,false]_11_11: -621821188892253714
+      BattlerDesire+[28,15,1,0,false]_11_12: 7107158591817421931
+      BattlerDesire+[28,15,1,0,false]_11_13: -2484481133806575663
+      BattlerDesire+[28,15,1,0,false]_11_14: -729357843117604548
+      BattlerDesire+[28,15,1,0,false]_11_15: -860002645272871582
+      BattlerDesire+[28,15,1,0,false]_11_16: 5647126701889781886
+      BattlerDesire+[28,15,1,0,false]_11_17: 7028983390565142436
+      BattlerDesire+[28,15,1,0,false]_11_18: 8935699885436157550
+      BattlerDesire+[28,15,1,0,false]_11_19: -7917350796758891801
+      BattlerDesire+[28,15,1,0,false]_11_2: -1874279999798911752
+      BattlerDesire+[28,15,1,0,false]_11_20: 5348941161143187741
+      BattlerDesire+[28,15,1,0,false]_11_21: 7658306773264829555
+      BattlerDesire+[28,15,1,0,false]_11_22: -258392075468009841
+      BattlerDesire+[28,15,1,0,false]_11_23: 4144340482415883699
+      BattlerDesire+[28,15,1,0,false]_11_24: 8788407360544646015
+      BattlerDesire+[28,15,1,0,false]_11_25: -585329899473786762
+      BattlerDesire+[28,15,1,0,false]_11_26: 3557898037420510675
+      BattlerDesire+[28,15,1,0,false]_11_27: -1146816310151362765
+      BattlerDesire+[28,15,1,0,false]_11_3: -6254758753222499727
+      BattlerDesire+[28,15,1,0,false]_11_4: 5105411377783552220
+      BattlerDesire+[28,15,1,0,false]_11_5: 9066833443639237443
+      BattlerDesire+[28,15,1,0,false]_11_6_hit: -6238357275370738079
+      BattlerDesire+[28,15,1,0,false]_11_7: -8680306560663040629
+      BattlerDesire+[28,15,1,0,false]_11_8: 172389846402811619
+      BattlerDesire+[28,15,1,0,false]_11_9: -6183977611679149077
+      BattlerDesire+[28,15,1,0,false]_12_0: 7933773421803933552
+      BattlerDesire+[28,15,1,0,false]_12_1: -8301011910853019512
+      BattlerDesire+[28,15,1,0,false]_12_10: 287120547701890390
+      BattlerDesire+[28,15,1,0,false]_12_11: -6142641335943130012
+      BattlerDesire+[28,15,1,0,false]_12_12: 3446792324617301827
+      BattlerDesire+[28,15,1,0,false]_12_13: 7541233511525283243
+      BattlerDesire+[28,15,1,0,false]_12_14: -841712906662148312
+      BattlerDesire+[28,15,1,0,false]_12_15: -3505251187028204321
+      BattlerDesire+[28,15,1,0,false]_12_16: 2053340797481644412
+      BattlerDesire+[28,15,1,0,false]_12_17: -7642014422378716926
+      BattlerDesire+[28,15,1,0,false]_12_18: -4977290302797562058
+      BattlerDesire+[28,15,1,0,false]_12_19: 8446143062855712418
+      BattlerDesire+[28,15,1,0,false]_12_2: -8769696978275055839
+      BattlerDesire+[28,15,1,0,false]_12_20: -3349089640300112430
+      BattlerDesire+[28,15,1,0,false]_12_21: 8296581736472465731
+      BattlerDesire+[28,15,1,0,false]_12_22: -7989432255033760281
+      BattlerDesire+[28,15,1,0,false]_12_23: 3417153985478185689
+      BattlerDesire+[28,15,1,0,false]_12_24: 868802903585998454
+      BattlerDesire+[28,15,1,0,false]_12_25: 236070973887759711
+      BattlerDesire+[28,15,1,0,false]_12_26: -5955147979732867268
+      BattlerDesire+[28,15,1,0,false]_12_27: 5794596444168008470
+      BattlerDesire+[28,15,1,0,false]_12_3: 1063078518117840294
+      BattlerDesire+[28,15,1,0,false]_12_4: -3903287235220873441
+      BattlerDesire+[28,15,1,0,false]_12_5: 6212247972347243889
+      BattlerDesire+[28,15,1,0,false]_12_6: 897621282021081343
+      BattlerDesire+[28,15,1,0,false]_12_7: -7508801588557659476
+      BattlerDesire+[28,15,1,0,false]_12_8: 6401307857745886157
+      BattlerDesire+[28,15,1,0,false]_12_9: -844111757980092071
+      BattlerDesire+[28,15,1,0,false]_13_0: -616977680691152355
+      BattlerDesire+[28,15,1,0,false]_13_1: -2156552505564591412
+      BattlerDesire+[28,15,1,0,false]_13_10: 1716622581001878114
+      BattlerDesire+[28,15,1,0,false]_13_11: -4720350012551544931
+      BattlerDesire+[28,15,1,0,false]_13_12: -5010039587675252201
+      BattlerDesire+[28,15,1,0,false]_13_13: 2733912300914990553
+      BattlerDesire+[28,15,1,0,false]_13_14: 5454626753324031552
+      BattlerDesire+[28,15,1,0,false]_13_15: -8602009098153848175
+      BattlerDesire+[28,15,1,0,false]_13_16: 5685027946356608421
+      BattlerDesire+[28,15,1,0,false]_13_17: 2229720324286384072
+      BattlerDesire+[28,15,1,0,false]_13_18: 5669299212083709316
+      BattlerDesire+[28,15,1,0,false]_13_19: -8759180199972270600
+      BattlerDesire+[28,15,1,0,false]_13_2: -1150936293905775922
+      BattlerDesire+[28,15,1,0,false]_13_20: -7378157648850275398
+      BattlerDesire+[28,15,1,0,false]_13_21: 929717370471358811
+      BattlerDesire+[28,15,1,0,false]_13_22: 4012382484600295709
+      BattlerDesire+[28,15,1,0,false]_13_23: -9127737469944710922
+      BattlerDesire+[28,15,1,0,false]_13_24: 5804688225532055577
+      BattlerDesire+[28,15,1,0,false]_13_25: 6169868210698568683
+      BattlerDesire+[28,15,1,0,false]_13_26: -3915485195808733423
+      BattlerDesire+[28,15,1,0,false]_13_27: -9164550956409941499
+      BattlerDesire+[28,15,1,0,false]_13_3: 246745667627562683
+      BattlerDesire+[28,15,1,0,false]_13_4: 7952018591495353516
+      BattlerDesire+[28,15,1,0,false]_13_5: -4438612068771586315
+      BattlerDesire+[28,15,1,0,false]_13_6: -2524074542176678018
+      BattlerDesire+[28,15,1,0,false]_13_7: -1067330267957337952
+      BattlerDesire+[28,15,1,0,false]_13_8: 7246323217285448081
+      BattlerDesire+[28,15,1,0,false]_13_9: -315198002876434153
+      BattlerDesire+[28,15,1,0,false]_14_0: -7201309987812111123
+      BattlerDesire+[28,15,1,0,false]_14_1: 20891370077563697
+      BattlerDesire+[28,15,1,0,false]_14_10: -8645391508960040063
+      BattlerDesire+[28,15,1,0,false]_14_11: -6117773387987323788
+      BattlerDesire+[28,15,1,0,false]_14_12: 7299931987749972222
+      BattlerDesire+[28,15,1,0,false]_14_13: -6736905706969998945
+      BattlerDesire+[28,15,1,0,false]_14_14: -4776677893349967363
+      BattlerDesire+[28,15,1,0,false]_14_15: -3456694551215738766
+      BattlerDesire+[28,15,1,0,false]_14_16: 7182047405704516621
+      BattlerDesire+[28,15,1,0,false]_14_17: -7090015548161201355
+      BattlerDesire+[28,15,1,0,false]_14_18: 912692092965398248
+      BattlerDesire+[28,15,1,0,false]_14_19: 4126337534934056137
+      BattlerDesire+[28,15,1,0,false]_14_2: -1126908236511956846
+      BattlerDesire+[28,15,1,0,false]_14_20: 8216444729672036081
+      BattlerDesire+[28,15,1,0,false]_14_21: -5066309450131000601
+      BattlerDesire+[28,15,1,0,false]_14_22: -761196383028030573
+      BattlerDesire+[28,15,1,0,false]_14_23: -5369007367608008639
+      BattlerDesire+[28,15,1,0,false]_14_24: 8586475820455594399
+      BattlerDesire+[28,15,1,0,false]_14_25: -7811115419484904256
+      BattlerDesire+[28,15,1,0,false]_14_26: 193093189540774491
+      BattlerDesire+[28,15,1,0,false]_14_27: -3326696944736085800
+      BattlerDesire+[28,15,1,0,false]_14_3: -603803901466560880
+      BattlerDesire+[28,15,1,0,false]_14_4: 7618425593215902926
+      BattlerDesire+[28,15,1,0,false]_14_5: 3703382181088448541
+      BattlerDesire+[28,15,1,0,false]_14_6: -7966745588313982042
+      BattlerDesire+[28,15,1,0,false]_14_7: -750912143566922280
+      BattlerDesire+[28,15,1,0,false]_14_8: -292293577039594689
+      BattlerDesire+[28,15,1,0,false]_14_9: 7335735433132078595
+      BattlerDesire+[28,15,1,0,false]_1_0: -2463142591743572376
+      BattlerDesire+[28,15,1,0,false]_1_1: -2031062642524883322
+      BattlerDesire+[28,15,1,0,false]_1_10: -9213116654591404183
+      BattlerDesire+[28,15,1,0,false]_1_11: -2975653769515026734
+      BattlerDesire+[28,15,1,0,false]_1_12: 5572545905354397117
+      BattlerDesire+[28,15,1,0,false]_1_13: -6463636369699805818
+      BattlerDesire+[28,15,1,0,false]_1_14: 1891293015589782187
+      BattlerDesire+[28,15,1,0,false]_1_15: -1620956773866235042
+      BattlerDesire+[28,15,1,0,false]_1_16: 3419319353454067601
+      BattlerDesire+[28,15,1,0,false]_1_17: -2570222230943132839
+      BattlerDesire+[28,15,1,0,false]_1_18: 302493933777578813
+      BattlerDesire+[28,15,1,0,false]_1_19: -4311756439059989849
+      BattlerDesire+[28,15,1,0,false]_1_2: -1004357184712027201
+      BattlerDesire+[28,15,1,0,false]_1_20: -2202953711503031817
+      BattlerDesire+[28,15,1,0,false]_1_21: 5126277885229042759
+      BattlerDesire+[28,15,1,0,false]_1_22: -5202424314234857096
+      BattlerDesire+[28,15,1,0,false]_1_23: -28814287196225501
+      BattlerDesire+[28,15,1,0,false]_1_24: 8827625420899665555
+      BattlerDesire+[28,15,1,0,false]_1_25: 5281912354836622091
+      BattlerDesire+[28,15,1,0,false]_1_26: 6853424425059799783
+      BattlerDesire+[28,15,1,0,false]_1_27: -5890979029873998329
+      BattlerDesire+[28,15,1,0,false]_1_3: -1596427154793381084
+      BattlerDesire+[28,15,1,0,false]_1_4: 1745116028735967199
+      BattlerDesire+[28,15,1,0,false]_1_5: 4512394418237068654
+      BattlerDesire+[28,15,1,0,false]_1_6: 6369511785120832095
+      BattlerDesire+[28,15,1,0,false]_1_7: -6340041019824554335
+      BattlerDesire+[28,15,1,0,false]_1_8: -6773382987065008177
+      BattlerDesire+[28,15,1,0,false]_1_9: -8676378827003547277
+      BattlerDesire+[28,15,1,0,false]_2_0: -1719970748093500922
+      BattlerDesire+[28,15,1,0,false]_2_1: -5452229761903285392
+      BattlerDesire+[28,15,1,0,false]_2_10: -6854964928740361808
+      BattlerDesire+[28,15,1,0,false]_2_11: -4092168057029178078
+      BattlerDesire+[28,15,1,0,false]_2_12: 9181255948543020087
+      BattlerDesire+[28,15,1,0,false]_2_13: 1412813716797648145
+      BattlerDesire+[28,15,1,0,false]_2_14: 8793392356098001313
+      BattlerDesire+[28,15,1,0,false]_2_15: -120991722124070937
+      BattlerDesire+[28,15,1,0,false]_2_16: 6382118679086509515
+      BattlerDesire+[28,15,1,0,false]_2_17: 5194974391689173896
+      BattlerDesire+[28,15,1,0,false]_2_18: -8624616233772527207
+      BattlerDesire+[28,15,1,0,false]_2_19: -4831654011256069748
+      BattlerDesire+[28,15,1,0,false]_2_2: -974485562499315958
+      BattlerDesire+[28,15,1,0,false]_2_20: 525149640824184556
+      BattlerDesire+[28,15,1,0,false]_2_21: -8821870560251086743
+      BattlerDesire+[28,15,1,0,false]_2_22: -3758215269194015053
+      BattlerDesire+[28,15,1,0,false]_2_23: -7612876184284728850
+      BattlerDesire+[28,15,1,0,false]_2_24: 7304856603781697073
+      BattlerDesire+[28,15,1,0,false]_2_25: 2803513144371018028
+      BattlerDesire+[28,15,1,0,false]_2_26: 6357355253810815040
+      BattlerDesire+[28,15,1,0,false]_2_27: 1590734494429834671
+      BattlerDesire+[28,15,1,0,false]_2_3: -5885185304193321253
+      BattlerDesire+[28,15,1,0,false]_2_4: 5168315306627506529
+      BattlerDesire+[28,15,1,0,false]_2_5: -3230946474303912802
+      BattlerDesire+[28,15,1,0,false]_2_6: -7596941151953350567
+      BattlerDesire+[28,15,1,0,false]_2_7: -4401349954565364730
+      BattlerDesire+[28,15,1,0,false]_2_8: -8043322288065674765
+      BattlerDesire+[28,15,1,0,false]_2_9: 666882745866711298
+      BattlerDesire+[28,15,1,0,false]_3_0: -3977554233027613923
+      BattlerDesire+[28,15,1,0,false]_3_1: 2929973460144703942
+      BattlerDesire+[28,15,1,0,false]_3_10: 394611895302126110
+      BattlerDesire+[28,15,1,0,false]_3_11: 7264376273358402403
+      BattlerDesire+[28,15,1,0,false]_3_12: 7076320272937405806
+      BattlerDesire+[28,15,1,0,false]_3_13: 6704501756804479580
+      BattlerDesire+[28,15,1,0,false]_3_14: 129312415687661822
+      BattlerDesire+[28,15,1,0,false]_3_15: -9069284614747693557
+      BattlerDesire+[28,15,1,0,false]_3_16: 1832581929581200471
+      BattlerDesire+[28,15,1,0,false]_3_17: -8064688573652558121
+      BattlerDesire+[28,15,1,0,false]_3_18: -4150619848183937811
+      BattlerDesire+[28,15,1,0,false]_3_19: -3046041384056706171
+      BattlerDesire+[28,15,1,0,false]_3_2: -645681405109161864
+      BattlerDesire+[28,15,1,0,false]_3_20: -6684011314202126752
+      BattlerDesire+[28,15,1,0,false]_3_21: 9191994333469859764
+      BattlerDesire+[28,15,1,0,false]_3_22: -1772241641007749142
+      BattlerDesire+[28,15,1,0,false]_3_23: -2634061225571282295
+      BattlerDesire+[28,15,1,0,false]_3_24: -377575390031641247
+      BattlerDesire+[28,15,1,0,false]_3_25: 9180712011415110724
+      BattlerDesire+[28,15,1,0,false]_3_26: -7162538993763147709
+      BattlerDesire+[28,15,1,0,false]_3_27: 6832890111948477078
+      BattlerDesire+[28,15,1,0,false]_3_3: -1530546720523531675
+      BattlerDesire+[28,15,1,0,false]_3_4: -7082573027916411334
+      BattlerDesire+[28,15,1,0,false]_3_5: 5695468020667698818
+      BattlerDesire+[28,15,1,0,false]_3_6: 6127131773001250587
+      BattlerDesire+[28,15,1,0,false]_3_7: -3060583261725747894
+      BattlerDesire+[28,15,1,0,false]_3_8: 6385845644409811092
+      BattlerDesire+[28,15,1,0,false]_3_9: 7198070381199879728
+      BattlerDesire+[28,15,1,0,false]_4_0: -4559527773311457112
+      BattlerDesire+[28,15,1,0,false]_4_1: -6871902699946419740
+      BattlerDesire+[28,15,1,0,false]_4_10: -8219425553506984233
+      BattlerDesire+[28,15,1,0,false]_4_11: -564925346570745495
+      BattlerDesire+[28,15,1,0,false]_4_12: 5714792139964803506
+      BattlerDesire+[28,15,1,0,false]_4_13: -2958155635144100029
+      BattlerDesire+[28,15,1,0,false]_4_14: 1842169175854123541
+      BattlerDesire+[28,15,1,0,false]_4_15: 3691925921640162154
+      BattlerDesire+[28,15,1,0,false]_4_16: 4294546254237248081
+      BattlerDesire+[28,15,1,0,false]_4_17: -527068107350831534
+      BattlerDesire+[28,15,1,0,false]_4_18: -6092931876783183548
+      BattlerDesire+[28,15,1,0,false]_4_19: 7106670213153956935
+      BattlerDesire+[28,15,1,0,false]_4_2: -3368977526450336788
+      BattlerDesire+[28,15,1,0,false]_4_20: -3487134035753910050
+      BattlerDesire+[28,15,1,0,false]_4_21: -2455722588148533371
+      BattlerDesire+[28,15,1,0,false]_4_22: -4356432133792835622
+      BattlerDesire+[28,15,1,0,false]_4_23: 7465180734528346945
+      BattlerDesire+[28,15,1,0,false]_4_24: -8275246358589256458
+      BattlerDesire+[28,15,1,0,false]_4_25: 8767848821119886086
+      BattlerDesire+[28,15,1,0,false]_4_26: -262079647015396634
+      BattlerDesire+[28,15,1,0,false]_4_27: -7967078264899854993
+      BattlerDesire+[28,15,1,0,false]_4_3: -3823214341205070950
+      BattlerDesire+[28,15,1,0,false]_4_4: -7377231389537770494
+      BattlerDesire+[28,15,1,0,false]_4_5: 7390248966422148061
+      BattlerDesire+[28,15,1,0,false]_4_6: -532192118840421496
+      BattlerDesire+[28,15,1,0,false]_4_7: 416277392950296133
+      BattlerDesire+[28,15,1,0,false]_4_8: 5660824642861309447
+      BattlerDesire+[28,15,1,0,false]_4_9: 4965166693105053266
+      BattlerDesire+[28,15,1,0,false]_5_0: 4834556676003033107
+      BattlerDesire+[28,15,1,0,false]_5_1: -2351372903847964103
+      BattlerDesire+[28,15,1,0,false]_5_10: 6283210940963816057
+      BattlerDesire+[28,15,1,0,false]_5_11: -2175449163147360516
+      BattlerDesire+[28,15,1,0,false]_5_12: 6113827109775525054
+      BattlerDesire+[28,15,1,0,false]_5_13: 7984913107892792494
+      BattlerDesire+[28,15,1,0,false]_5_14: -2170575460443839975
+      BattlerDesire+[28,15,1,0,false]_5_15: 566711876471390051
+      BattlerDesire+[28,15,1,0,false]_5_16: -7721870062308275563
+      BattlerDesire+[28,15,1,0,false]_5_17: 7969102093872461867
+      BattlerDesire+[28,15,1,0,false]_5_18: -7960563944971943287
+      BattlerDesire+[28,15,1,0,false]_5_19: -4706912773653115068
+      BattlerDesire+[28,15,1,0,false]_5_2: -6771454454678152181
+      BattlerDesire+[28,15,1,0,false]_5_20: -3196264492042481252
+      BattlerDesire+[28,15,1,0,false]_5_21: -4170661449122055732
+      BattlerDesire+[28,15,1,0,false]_5_22: 1286716047750724760
+      BattlerDesire+[28,15,1,0,false]_5_23: -1154242132761757846
+      BattlerDesire+[28,15,1,0,false]_5_24: -8298780115079706027
+      BattlerDesire+[28,15,1,0,false]_5_25: -5824540125630796790
+      BattlerDesire+[28,15,1,0,false]_5_26: -6010054904515458241
+      BattlerDesire+[28,15,1,0,false]_5_27: 8379312091605869905
+      BattlerDesire+[28,15,1,0,false]_5_3: -4802060603554173894
+      BattlerDesire+[28,15,1,0,false]_5_4: 7695165420356918295
+      BattlerDesire+[28,15,1,0,false]_5_5: -1109299634536905849
+      BattlerDesire+[28,15,1,0,false]_5_6: -6141817063682918798
+      BattlerDesire+[28,15,1,0,false]_5_7: -7520525824265957866
+      BattlerDesire+[28,15,1,0,false]_5_8: 3736194038297311625
+      BattlerDesire+[28,15,1,0,false]_5_9: 2894154970617618190
+      BattlerDesire+[28,15,1,0,false]_6_0: -1981729881738014079
+      BattlerDesire+[28,15,1,0,false]_6_1: -5081284259605170491
+      BattlerDesire+[28,15,1,0,false]_6_10: 343653161769054978
+      BattlerDesire+[28,15,1,0,false]_6_11: -1181224154167472535
+      BattlerDesire+[28,15,1,0,false]_6_12: -7427414881374840758
+      BattlerDesire+[28,15,1,0,false]_6_13: 7556853883446441249
+      BattlerDesire+[28,15,1,0,false]_6_14: 6592707399821500819
+      BattlerDesire+[28,15,1,0,false]_6_15: -4871332830126840507
+      BattlerDesire+[28,15,1,0,false]_6_16: -5360453838252418158
+      BattlerDesire+[28,15,1,0,false]_6_17: -3757903631550020927
+      BattlerDesire+[28,15,1,0,false]_6_18: -2659624621042849519
+      BattlerDesire+[28,15,1,0,false]_6_19: 729822164772474761
+      BattlerDesire+[28,15,1,0,false]_6_2: -4966946062957038305
+      BattlerDesire+[28,15,1,0,false]_6_20: -8464966357759712963
+      BattlerDesire+[28,15,1,0,false]_6_21: -4333239628790334039
+      BattlerDesire+[28,15,1,0,false]_6_22: 6509735493574410573
+      BattlerDesire+[28,15,1,0,false]_6_23: 8493400979879152782
+      BattlerDesire+[28,15,1,0,false]_6_24: -7947722723507918824
+      BattlerDesire+[28,15,1,0,false]_6_25: -907699877391714693
+      BattlerDesire+[28,15,1,0,false]_6_26: 8476634048918128341
+      BattlerDesire+[28,15,1,0,false]_6_27: -5198007240025087562
+      BattlerDesire+[28,15,1,0,false]_6_3: -8071290992084505055
+      BattlerDesire+[28,15,1,0,false]_6_4: 843885875841822215
+      BattlerDesire+[28,15,1,0,false]_6_5: -336353892864752811
+      BattlerDesire+[28,15,1,0,false]_6_6: 4985902142291141429
+      BattlerDesire+[28,15,1,0,false]_6_7: 6864210548501018099
+      BattlerDesire+[28,15,1,0,false]_6_8: -3405499987462798974
+      BattlerDesire+[28,15,1,0,false]_6_9: -7597711483654095710
+      BattlerDesire+[28,15,1,0,false]_7_0: -986842122624981002
+      BattlerDesire+[28,15,1,0,false]_7_1: 64430923497464609
+      BattlerDesire+[28,15,1,0,false]_7_10: -2276281953436705305
+      BattlerDesire+[28,15,1,0,false]_7_11: -3593574054544962096
+      BattlerDesire+[28,15,1,0,false]_7_12: -1163814273384911158
+      BattlerDesire+[28,15,1,0,false]_7_13: -4904714919818166688
+      BattlerDesire+[28,15,1,0,false]_7_14: -6846075313702229252
+      BattlerDesire+[28,15,1,0,false]_7_15: 2013550238559877535
+      BattlerDesire+[28,15,1,0,false]_7_16: 2575268176763911815
+      BattlerDesire+[28,15,1,0,false]_7_17: 2454259196362204230
+      BattlerDesire+[28,15,1,0,false]_7_18: -3225946217682719154
+      BattlerDesire+[28,15,1,0,false]_7_19: -6780961135177190484
+      BattlerDesire+[28,15,1,0,false]_7_2: -4438515589631016124
+      BattlerDesire+[28,15,1,0,false]_7_20: 7052063333537208914
+      BattlerDesire+[28,15,1,0,false]_7_21: -7596049078537339421
+      BattlerDesire+[28,15,1,0,false]_7_22: 2307808768790963877
+      BattlerDesire+[28,15,1,0,false]_7_23: 5272040886452156574
+      BattlerDesire+[28,15,1,0,false]_7_24: -6260428052541118933
+      BattlerDesire+[28,15,1,0,false]_7_25: -5894072817295373506
+      BattlerDesire+[28,15,1,0,false]_7_26: 2047129922333861289
+      BattlerDesire+[28,15,1,0,false]_7_27: 8805819094359030667
+      BattlerDesire+[28,15,1,0,false]_7_3: -4386260196301754904
+      BattlerDesire+[28,15,1,0,false]_7_4: 2399719346468419906
+      BattlerDesire+[28,15,1,0,false]_7_5: -6678366620132920866
+      BattlerDesire+[28,15,1,0,false]_7_6: -3380756044221600440
+      BattlerDesire+[28,15,1,0,false]_7_7: -3906323120208264326
+      BattlerDesire+[28,15,1,0,false]_7_8: 5482261584440207827
+      BattlerDesire+[28,15,1,0,false]_7_9: -228677404789980560
+      BattlerDesire+[28,15,1,0,false]_8_0: 342800605195398391
+      BattlerDesire+[28,15,1,0,false]_8_1: 8383754807067094346
+      BattlerDesire+[28,15,1,0,false]_8_10: -6946821558772715071
+      BattlerDesire+[28,15,1,0,false]_8_11: 5370902602301904048
+      BattlerDesire+[28,15,1,0,false]_8_12: 4066419465529332134
+      BattlerDesire+[28,15,1,0,false]_8_13: 7644252047177820153
+      BattlerDesire+[28,15,1,0,false]_8_14: -6629198295741460156
+      BattlerDesire+[28,15,1,0,false]_8_15: 4596170572211218635
+      BattlerDesire+[28,15,1,0,false]_8_16: 694623804433472707
+      BattlerDesire+[28,15,1,0,false]_8_17: 8581980555417984211
+      BattlerDesire+[28,15,1,0,false]_8_18: -2290852199074400767
+      BattlerDesire+[28,15,1,0,false]_8_19: 9108626048422250388
+      BattlerDesire+[28,15,1,0,false]_8_2: 8038509632822325680
+      BattlerDesire+[28,15,1,0,false]_8_20: -4789500276728619522
+      BattlerDesire+[28,15,1,0,false]_8_21: 8348180113655276164
+      BattlerDesire+[28,15,1,0,false]_8_22: -1142523020981265328
+      BattlerDesire+[28,15,1,0,false]_8_23: -2460565022794252190
+      BattlerDesire+[28,15,1,0,false]_8_24: 1748764866594881829
+      BattlerDesire+[28,15,1,0,false]_8_25: -8534601364034622905
+      BattlerDesire+[28,15,1,0,false]_8_26: 5727947199241272197
+      BattlerDesire+[28,15,1,0,false]_8_27: -8455740970287034475
+      BattlerDesire+[28,15,1,0,false]_8_3: -3414608990332297120
+      BattlerDesire+[28,15,1,0,false]_8_4: 6530866898724663491
+      BattlerDesire+[28,15,1,0,false]_8_5: 9111778804154514883
+      BattlerDesire+[28,15,1,0,false]_8_6: -6736211354100851582
+      BattlerDesire+[28,15,1,0,false]_8_7: 5969746796539990354
+      BattlerDesire+[28,15,1,0,false]_8_8: 8498287419301846189
+      BattlerDesire+[28,15,1,0,false]_8_9: -2790584946917747515
+      BattlerDesire+[28,15,1,0,false]_9_0: 2033262626349339558
+      BattlerDesire+[28,15,1,0,false]_9_1: -7285924915639362289
+      BattlerDesire+[28,15,1,0,false]_9_10: 4313534612871423711
+      BattlerDesire+[28,15,1,0,false]_9_11: 2100248379672453194
+      BattlerDesire+[28,15,1,0,false]_9_12: -1060998436168641215
+      BattlerDesire+[28,15,1,0,false]_9_13: -9153880369998616368
+      BattlerDesire+[28,15,1,0,false]_9_14: -8686013890245288407
+      BattlerDesire+[28,15,1,0,false]_9_15: 8295921666741096363
+      BattlerDesire+[28,15,1,0,false]_9_16: -5965013856380981895
+      BattlerDesire+[28,15,1,0,false]_9_17: -7412079193827637043
+      BattlerDesire+[28,15,1,0,false]_9_18: -9151117965901061377
+      BattlerDesire+[28,15,1,0,false]_9_19: -2779019108063618653
+      BattlerDesire+[28,15,1,0,false]_9_2: 3287413875595751653
+      BattlerDesire+[28,15,1,0,false]_9_20: 3902317642362266905
+      BattlerDesire+[28,15,1,0,false]_9_21: -8875254903585327153
+      BattlerDesire+[28,15,1,0,false]_9_22: 8763602725049755011
+      BattlerDesire+[28,15,1,0,false]_9_23: -7178045708367450326
+      BattlerDesire+[28,15,1,0,false]_9_24: -4277342502589965236
+      BattlerDesire+[28,15,1,0,false]_9_25: 4476719162568936021
+      BattlerDesire+[28,15,1,0,false]_9_26: 2825022990070969501
+      BattlerDesire+[28,15,1,0,false]_9_27: -8372232319418660586
+      BattlerDesire+[28,15,1,0,false]_9_3: 2074254687799820474
+      BattlerDesire+[28,15,1,0,false]_9_4: -6037450987115275073
+      BattlerDesire+[28,15,1,0,false]_9_5: 8264833420030684741
+      BattlerDesire+[28,15,1,0,false]_9_6: 5625533387090595781
+      BattlerDesire+[28,15,1,0,false]_9_7: -8281103823302081615
+      BattlerDesire+[28,15,1,0,false]_9_8: -5880057874632277786
+      BattlerDesire+[28,15,1,0,false]_9_9: -199455866572188215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

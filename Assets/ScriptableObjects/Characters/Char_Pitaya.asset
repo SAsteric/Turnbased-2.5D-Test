@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec56490eacfea0c4bb0c9b1e22008378, type: 3}
+  m_Name: Char_Pitaya
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Pitaya
+  portrait: {fileID: -1772302208, guid: 0d94412ee25173840988689a6bb450b7, type: 3}
+  overworldPrefab: {fileID: 1341620176402480318, guid: a2b9f8e24d4021d4d83aa38e9795ae17, type: 3}
+  startingLevel: 1
+  baseStats:
+    maxHP: 30
+    maxMP: 10
+    attack: 15
+    defense: 10
+    magic: 7
+    resistance: 5
+    speed: 9
+  weaknesses: 03000000
+  resistances: 06000000
+  signatureWeapon: {fileID: 11400000, guid: 4a13d50e6a3d6fa44b771f6feb4d6b8b, type: 2}
+  learnableSkills:
+  - skill: {fileID: 11400000, guid: 2646001c3585a554d967e8dbca2867fe, type: 2}
+    learnLevel: 3
+  - skill: {fileID: 11400000, guid: 3fec15ea9146ee44cae29935b92c7f50, type: 2}
+    learnLevel: 2
+  - skill: {fileID: 11400000, guid: ef908ff7f711d50419dccf31cdbcf2dc, type: 2}
+    learnLevel: 0
+  battleAnimatorController: {fileID: 9100000, guid: 1e45613ccb4e37a4bbcfff8018e5e941, type: 2}
+  battleAttackSprites: []
+  battleAttackFrameRate: 10
+  battleSlideForwardSprites: []
+  battleSlideBackSprites: []
+  slideFrameRate: 12
+  basicAttackHitFrame: 0
+  flipBattleSprite: 0
